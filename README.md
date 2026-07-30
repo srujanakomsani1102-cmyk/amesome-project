@@ -1,1 +1,3 @@
-# amesome-project
+# Awesome Project
+
+Created by Srujana.
